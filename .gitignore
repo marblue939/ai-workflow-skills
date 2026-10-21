@@ -1,0 +1,11 @@
+# 本地/敏感
+*.local
+.env
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+# 个人材料的临时产物
+*.tmp
+_backup_*.xlsx
